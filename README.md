@@ -1,60 +1,61 @@
-Cybersecurity Analyst Portfolio
+# Cybersecurity Analyst Portfolio
 
-About Me
+## About Me
 
-I am working toward a career as a Cybersecurity Analyst, with a strong interest in network security, vulnerability assessment, security monitoring, and Linux security.
+I am an aspiring Cybersecurity Analyst building practical experience in network security, vulnerability assessment, security monitoring, Linux security, and incident analysis.
 
-I am developing practical cybersecurity skills through hands-on laboratory exercises and security projects using industry-relevant tools and technologies.
+This portfolio documents hands-on projects completed in authorized laboratory environments, with an emphasis on clear methodology, security findings, and practical recommendations.
 
-Technical Skills
+## Core Skills
 
-* Network Security
-* Vulnerability Assessment
-* Network Reconnaissance
-* Linux Administration
-* Security Monitoring
-* TCP/IP Networking
-* Threat Identification
-* Basic Incident Analysis
+- Network security and TCP/IP fundamentals
+- Network reconnaissance and service enumeration
+- Vulnerability assessment and risk analysis
+- Security monitoring and basic incident analysis
+- Linux administration and security hardening
+- Threat identification and documentation
 
-Security Tools
+## Tools and Technologies
 
-* Nmap
-* OpenVAS / Greenbone
-* Wireshark
-* Kali Linux
-* Ubuntu
-* VirtualBox
+- Nmap
+- OpenVAS / Greenbone
+- Wireshark
+- Kali Linux
+- Ubuntu
+- VirtualBox
 
-Cybersecurity Projects
+## Featured Projects
 
-1. Network Reconnaissance with Nmap
+### Network Reconnaissance with Nmap
 
-A practical network scanning project focused on identifying hosts, open ports, and running services within an authorized laboratory environment.
+A practical lab project focused on identifying hosts, open ports, running services, and potential areas of exposure within an authorized network.
 
-2. Vulnerability Assessment with OpenVAS
+### Vulnerability Assessment with OpenVAS
 
-A vulnerability assessment project involving target configuration, vulnerability scanning, analysis of security findings, and remediation recommendations.
+A vulnerability assessment project covering target configuration, scan execution, analysis of findings, prioritization of risks, and remediation recommendations.
 
-3. Network Traffic Analysis with Wireshark
+### Network Traffic Analysis with Wireshark
 
-Analysis of network traffic to understand protocols, connections, and potentially suspicious network activity.
+An analysis of captured network traffic to understand protocols, connections, indicators of suspicious activity, and useful evidence for investigation.
 
-4. Linux Security Hardening
+### Linux Security Hardening
 
-Practical exercises focused on improving the security configuration of Linux systems.
+Practical exercises focused on improving Linux security configuration, reducing attack surface, and applying system-hardening principles.
 
-Learning Goals
+## Career Development Focus
 
-* Security Operations Center (SOC) Analysis
-* Vulnerability Management
-* Network Defense
-* Incident Response
-* Threat Detection
-* Security Monitoring
+- Security Operations Center (SOC) analysis
+- Vulnerability management
+- Network defense
+- Incident response
+- Threat detection
+- Security monitoring
 
-Contact
+## Ethical Use
 
-LinkedIn: www.linkedin.com/in/korode-edidi-a96a3735a
+All security testing documented here was performed for educational purposes in authorized lab environments. Do not scan, test, or access systems without explicit permission.
 
-Email: edidikorode@gmail.com
+## Contact
+
+- LinkedIn: [Korode Edidi](http://www.linkedin.com/in/korode-edidi-a96a3735a)
+- Email: [edidikorode@gmail.com](mailto:edidikorode@gmail.com)
